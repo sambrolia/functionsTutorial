@@ -1,5 +1,7 @@
 # Example project to show correct usage of functions:
 
+https://github.com/sambrolia/functionsTutorial
+
 ## Context:
 The file tea.go is a basic example of a function which puts together instructions to make a cup of tea, based on inputs such as if milk or sugar is required.  
 A structure is used to store resources such as how much sugar is remaining, or whether the milk is gone off.  
